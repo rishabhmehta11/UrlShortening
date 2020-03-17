@@ -19,3 +19,9 @@ The main requirements that guided the design and implementation of are:
 •	It should be readable, maintainable, and extensible where appropriate
 
 •	The implementation should preferably be in Java
+
+Technologies Used
+Spring Boot: For creating RestFul web Services
+Maven: For managing the project build
+Docker: For building and managing the application distribution using container
+JPA Repositories: For persistance Storage
